@@ -1,5 +1,5 @@
 import React from 'react'
-import PropTyps from 'prop-types'
+import PropTypes from 'prop-types'
 
 class TodoItem extends React.Component {
     constructor(props) {
